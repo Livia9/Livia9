@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Livia9
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Lívia Veríssimo Raissinger
+- 👀 I’m interested in Front End
+- 🌱 I’m currently learning programação
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: in my email- liviaraissinger@gmail.com
 
