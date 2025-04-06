@@ -1,4 +1,4 @@
-## ATALHOS E ESPECIFICAÇÕES ECLIPSE
+# 💻 Estudo de Programação Orientada a Objetos (POO) Eclipse
 System.out.println("Ola, mundo!"); é o nosso famoso "escreva"
 - ctrl + f11 voce roda o seu codigo
 
@@ -6,11 +6,6 @@ System.out.println("Ola, mundo!"); é o nosso famoso "escreva"
  <p align="center">
    <img src="https://github.com/user-attachments/assets/9dac5661-a6c6-4119-a0b5-5b464b6be31c" alt="Logotipo Serratec" width="400"/>
  </p>
- 
- 
- # 💻 Estudo de Programação Orientada a Objetos (POO) em Java
- 
- Este repositório foi criado com o objetivo de reunir exercícios, exemplos e anotações voltadas ao **aprendizado de Programação Orientada a Objetos (POO)**, utilizando a linguagem Java.
  
  
  ## 📚 Objetivo
