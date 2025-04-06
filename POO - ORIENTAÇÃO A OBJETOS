@@ -1,6 +1,7 @@
 # 💻 Estudo de Programação Orientada a Objetos (POO) Eclipse
 System.out.println("Ola, mundo!"); é o nosso famoso "escreva"
 - ctrl + f11 voce roda o seu codigo
+import java.util.Scanner;  //ctrl+shift+o atalho pq temos q fazer o scanneer?
 
 @@ -0,0 +1,41 @@
  <p align="center">
