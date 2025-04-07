@@ -1,1 +1,11 @@
-# POO
+
+# POO 🖥️
+
+
+numeros declarados com ponto mas escritos vom virgula 
+double = 1.60
+mas na hora de falar uma altura ele so le com 1,60
+para apenas um caractere fazemos:
+char = 'a';
+
+boolen é o verdadeiro ou falso, ou sejA, noosso logico.
