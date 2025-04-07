@@ -3,7 +3,7 @@ System.out.println("Ola, mundo!"); é o nosso famoso "escreva"
 - ctrl + f11 voce roda o seu codigo
 import java.util.Scanner;  //ctrl+shift+o atalho pq temos q fazer o scanneer?
 
-@@ -0,0 +1,41 @@
+
  <p align="center">
    <img src="https://github.com/user-attachments/assets/9dac5661-a6c6-4119-a0b5-5b464b6be31c" alt="Logotipo Serratec" width="400"/>
  </p>
