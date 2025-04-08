@@ -9,3 +9,13 @@ para apenas um caractere fazemos:
 char = 'a';
 
 boolen é o verdadeiro ou falso, ou sejA, noosso logico.
+Resumo:
+-\t: Tabulação (indenta a string).
+
+-\b: Backspace (apaga o caractere anterior).
+
+-\\: Barra invertida literal (\).
+
+-\’: Apóstrofo literal (').
+
+-\”: Aspas duplas literais (").
