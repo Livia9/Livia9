@@ -1,6 +1,6 @@
 # 🧠 Resumo: Conceitos Fundamentais da Programação Orientada a Objetos (POO)
 
-## 🔹 Classes
+## 🔹 Classesloll
 São moldes ou estruturas que definem as características (**atributos**) e comportamentos (**métodos**) de um tipo de objeto.  
 **Exemplo:** uma classe `Carro` pode ter atributos como `cor`, `marca` e `velocidade`, e métodos como `acelerar()` ou `frear()`.[
 
