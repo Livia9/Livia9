@@ -2,7 +2,7 @@
 
 ## 🔹 Classes
 São moldes ou estruturas que definem as características (**atributos**) e comportamentos (**métodos**) de um tipo de objeto.  
-**Exemplo:** uma classe `Carro` pode ter atributos como `cor`, `marca` e `velocidade`, e métodos como `acelerar()` ou `frear()`.
+**Exemplo:** uma classe `Carro` pode ter atributos como `cor`, `marca` e `velocidade`, e métodos como `acelerar()` ou `frear()`.[
 
 ---
 
