@@ -1,11 +1,25 @@
-### Meu nome é Lívia Raissinger!
-- 👀 I’m interested in Front End
-- 🌱 I’m currently learning programação
+### **Olá! Eu sou a Lívia Raissinger! 👩🏻‍💻👋**
 
-# Oii! 👋
+Tenho 19 anos e a minha jornada começou com um curso técnico em Informática integrado ao meu ensino médio, onde aprendi conceitos fundamentais de programação e TI.
+Sou apaixonada por tecnologia, sempre estou buscando aprender e expandir meus conhecimentos🚀. Atualmente, estou cursando um *bootcamp intensivo* de desenvolvedor full stack no **Serratec/Firjan Senai**, e me encantando cada vez mais pelo mundo da programação.
 
-Sou uma desenvolvedora em formação, apaixonada por tecnologia e sempre buscando aprender mais. 🚀  
-Atualmente estudando **FrontEnd Essencial**
+👩‍🎓 **Formação Técnica em Informática**  
+Durante o curso técnico, tive a oportunidade de aprender e aplicar conhecimentos em diversas áreas da informática, incluindo:
+
+- **Fundamentos em Processamento de Dados**
+- **Empreendedorismo e Inovação**
+- **Organização de Computadores**
+- **Segurança, Meio Ambiente e Saúde**
+- **Linguagem de Programação (I, II, III)**
+- **Técnicas Operacionais e de Programação**
+- **Contabilidade e Estatística**
+- **Psicologia aplicada à tecnologia**
+
+
+📖 **Atualmente, estou aprofundando meus estudos em Front End** 
+
+💬 **Vamos conversar!**  
+Se você quer trocar ideias sobre tecnologia ou colaborar em projetos, fique à vontade para me chamar! ✨
 
 ## 📬 Contato
 <div style="display: flex; gap: 15px;">
@@ -16,8 +30,3 @@ Atualmente estudando **FrontEnd Essencial**
   <a href="https://www.instagram.com/livia.raissx/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
-
-<!---
-Livia9/Livia9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
