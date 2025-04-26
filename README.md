@@ -1,4 +1,4 @@
-### **Olá! Eu sou a Lívia Raissinger! 👩🏻‍💻👋**
+### **Olá! Eu sou a Lívia Raissinger! 👩🏻‍💻👋🏻**
 
 Tenho 19 anos e a minha jornada começou com um curso técnico em Informática integrado ao meu ensino médio, onde aprendi conceitos fundamentais de programação e TI.
 Sou apaixonada por tecnologia, sempre estou buscando aprender e expandir meus conhecimentos🚀. Atualmente, estou cursando um *bootcamp intensivo* de desenvolvedor full stack no **Serratec/Firjan Senai**, e me encantando cada vez mais pelo mundo da programação.
