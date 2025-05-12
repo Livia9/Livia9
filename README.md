@@ -21,6 +21,9 @@ Durante o curso técnico, tive a oportunidade de aprender e aplicar conhecimento
 💬 **Vamos conversar!**  
 Se você quer trocar ideias sobre tecnologia ou colaborar em projetos, fique à vontade para me chamar! ✨
 
+![Livia9's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Livia9&show_icons=true&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Livia9&layout=compact&theme=tokyonight)
+
 ## 📬 Contato
 <div style="display: flex; gap: 15px;">
   <a href="https://www.linkedin.com/in/liviaraissinger" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
