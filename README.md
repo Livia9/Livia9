@@ -16,7 +16,7 @@ Durante o curso técnico, tive a oportunidade de aprender e aplicar conhecimento
 - **Psicologia aplicada à tecnologia**
 
 
-📖 **Atualmente, estou aprofundando meus estudos em Front End** 
+📖 **Atualmente, estou aprofundando meus estudos em API!** 
 
 💬 **Vamos conversar!**  
 Se você quer trocar ideias sobre tecnologia ou colaborar em projetos, fique à vontade para me chamar! ✨
