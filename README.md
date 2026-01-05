@@ -23,8 +23,12 @@ Durante o curso técnico, tive a oportunidade de aprender e aplicar conhecimento
 🗃️ Banco de Dados
 <p align="left"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/> </p>
 
-![Livia9's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Livia9&show_icons=true&theme=tokyonight)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Livia9&layout=compact&theme=tokyonight)
+ <p align="center">
+<a href="https://github.com/Livia9">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Livia9&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Livia9&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 💬 **Vamos conversar!**  
 Se você quer trocar ideias sobre tecnologia ou colaborar em projetos, fique à vontade para me chamar! ✨
